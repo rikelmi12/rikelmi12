@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ruan Rikelmi 👋</h1>
+<h1 align="center">Hi there, I'm Rikelmif (Ruan) 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | Node.js & TypeScript Specialist</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I am a results-oriented **Software Engineer** specializing in the **Node.js & TypeScript** ecosystem. I architect, deploy, and maintain mission-critical web applications, high-throughput REST and WebSocket APIs, and resilient data infrastructure running 24/7 in production.
+I am a results-driven **Software Engineer** specializing in the **Node.js & TypeScript** ecosystem. I architect, deploy, and maintain mission-critical web applications, high-throughput REST and WebSocket APIs, and resilient data infrastructure running 24/7 in production.
 
 - 🔭 **Current Focus:** Microservices, Modular Monoliths (Schema-per-Domain), and Event-Driven Architectures.
 - ⚡ **Production Systems:** Architect of **Softcore Cloud / Morada POS** (commercial restaurant SaaS), with automated SEFAZ electronic invoice integration (NFC-e / NF-e 55), XML digital signature pipelines (X.509 certificates), and native C# desktop printing daemons.
@@ -58,17 +58,18 @@ I am a results-oriented **Software Engineer** specializing in the **Node.js & Ty
 
 ---
 
-### 🌟 Featured Highlights
+### 🌟 Featured Repositories
 
-| Project / System | Architecture & Technologies | Live Demo / Scope |
+| Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[Softcore Cloud & Morada POS](https://softcore.cloud)** | Node.js, SQLite WAL, Systemd, SEFAZ NFC-e XML Digital Signatures (X.509), C# .NET Native Windows Print Daemon, Nginx, Cloudflare Tunnels | Production 24/7 SaaS serving retail & restaurants |
-| **[Pedeifood Delivery Ecosystem](https://github.com/rikelmi12/pedeifood)** | NestJS 10, React 19, Socket.IO, Drizzle ORM, Schema-per-Domain PostgreSQL, PGlite (WASM) | Monorepo connecting Consumer, KDS and Courier radar |
-| **[Mundo Náutica](https://softcore.cloud/Mundonauticasma/)** | Native Browser Scroll, Scroll-Driven CSS Animations, IntersectionObserver, Schema.org JSON-LD | High-performance Awwwards-concept catalog |
-| **[Pharmativa](https://softcore.cloud/pharmativa/)** | Responsive Web Design, WebP asset pipelines, WhatsApp conversion routing | Commercial healthcare and dermocosmetics portal |
+| **[softcore-pos-engine](https://github.com/rikelmi12/softcore-pos-engine)** | Node.js, SQLite WAL, SEFAZ NFC-e XML Digital Signatures (X.509), Cloudflare Tunnels | 24/7 commercial restaurant POS, cashier balancing, and government fiscal engine in production |
+| **[pedeifood](https://github.com/rikelmi12/pedeifood)** | NestJS 10, React 19, Socket.IO, Drizzle ORM, Schema-per-Domain PostgreSQL, PGlite (WASM) | Monorepo connecting Consumer Marketplace, Merchant KDS, and Courier Radar |
+| **[pos-thermal-print-agent](https://github.com/rikelmi12/pos-thermal-print-agent)** | C# (.NET Core), WinSpool, DPAPI Cryptography, Unit Tests | Native Windows background daemon for ESC/POS thermal receipt printers with atomic lease claiming |
+| **[high-performance-web-showcases](https://github.com/rikelmi12/high-performance-web-showcases)** | Vanilla ES6+, CSS Scroll-Driven Animations, IntersectionObserver, Schema.org | Sub-second e-commerce catalogs and showcases (Mundo Náutica, Pharmativa, SoftTec) |
+| **[ollama-chat-desktop](https://github.com/rikelmi12/ollama-chat-desktop)** | Java 11, Maven, Jackson, Ollama API | Desktop conversational AI client for privacy-preserving local LLM inference |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikelmi12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rikelmi GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rikelmi12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rikelmif GitHub Stats" />
 </p>

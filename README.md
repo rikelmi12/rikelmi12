@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="./perfil.jpeg" alt="Rikelmif" width="140" style="border-radius: 50%; object-fit: cover;" />
+</p>
+
 <h1 align="center">Hi there, I'm Rikelmif (Ruan) 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | Node.js & TypeScript Specialist</h3>
 
 <p align="center">
   <a href="https://softcore.cloud/softtec/"><img src="https://img.shields.io/badge/Portfolio-softcore.cloud%2Fsofttec-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://softcore.cloud"><img src="https://img.shields.io/badge/Live_SaaS-softcore.cloud-10b981?style=for-the-badge&logo=fastapi&logoColor=white" alt="Live SaaS" /></a>
+  <a href="https://instagram.com/rikelmif"><img src="https://img.shields.io/badge/Instagram-%40rikelmif-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:ruanamr2@gmail.com"><img src="https://img.shields.io/badge/Email-ruanamr2%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -17,6 +22,7 @@ I am a results-driven **Software Engineer** specializing in the **Node.js & Type
 - ⚡ **Production Systems:** Architect of **Softcore Cloud / Morada POS** (commercial restaurant SaaS), with automated SEFAZ electronic invoice integration (NFC-e / NF-e 55), XML digital signature pipelines (X.509 certificates), and native C# desktop printing daemons.
 - 🌐 **Web & E-Commerce:** Creator of high-performance digital platforms like [Mundo Náutica](https://softcore.cloud/Mundonauticasma/) and [Pharmativa](https://softcore.cloud/pharmativa/).
 - 🌍 **Open to Work:** Remote opportunities worldwide & relocation (US & Canada).
+- 📲 **Connect with me:** [@rikelmif](https://instagram.com/rikelmif) on Instagram.
 
 ---
 

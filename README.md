@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./perfil.jpeg" alt="Rikelmif" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
-</p>
-
 <h1 align="center">Hi there, I'm Rikelmif (Ruan) 👋</h1>
 <h3 align="center">Full-Stack Software Engineer | Node.js & TypeScript Specialist</h3>
 
